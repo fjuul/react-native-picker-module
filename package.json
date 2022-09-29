@@ -18,9 +18,9 @@
   "author": "Talut TASGIRAN",
   "license": "MIT",
   "peerDependencies": {
-    "@react-native-picker/picker": "^1.9.10",
-    "react-native-modal": "^11.6.1",
-    "react-native": "^0.63.4"
+    "@react-native-picker/picker": "2.x",
+    "react-native-modal": "11.x",
+    "react-native": ">=0.63.4"
   },
   "publishConfig": {"registry": "https://npm.pkg.github.com/@talut"},
   "repository": {
